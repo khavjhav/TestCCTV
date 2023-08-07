@@ -5,7 +5,7 @@ ultralytics==8.0.26
 hydra-core>=1.2.0
 matplotlib>=3.2.2
 numpy>=1.18.5
-opencv-python>=4.5.0.60
+opencv-python-headless>=4.5.0.60
 Pillow>=7.1.2
 PyYAML>=5.3.1
 requests>=2.23.0
@@ -17,4 +17,5 @@ filterpy==1.4.5
 scikit-image==0.19.3
 urllib3==1.26.7
 google-auth==2.20.0
+lap==0.4.0
 
